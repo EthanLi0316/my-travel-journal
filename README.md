@@ -42,4 +42,4 @@ This is a simple React application that showcases a travel journal. It displays 
 
 ## Usage
 
-    -Open your browser and go to http://localhost:5173 to view the application.
+-   Open your browser and go to http://localhost:5173 to view the application.
