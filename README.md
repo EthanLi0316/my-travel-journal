@@ -37,17 +37,9 @@ This is a simple React application that showcases a travel journal. It displays 
 4. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
 
--   Open your browser and go to `http://localhost:3000` to view the application.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
+    -Open your browser and go to http://localhost:5173 to view the application.
